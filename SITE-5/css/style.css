@@ -1,0 +1,232 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    font-size: 100%;
+}
+.main-content{
+    margin: 0 auto;
+    width: 1000px;
+    height: 3650px;
+    border: 5px solid #413f42;
+    border-radius: 3px;
+
+}
+.main-content img{
+    display: block;
+    float: left;
+}
+.mn{
+    list-style: none;
+}
+.mn li{
+    display: inline-block;
+    margin: 40px;
+     padding-top: 20px;
+    padding-right: 10px;
+}
+.mn li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #403e41;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Georgia sans-serif;
+}
+.mn li a:hover{
+    text-decoration: underline;
+    color: #ffcd01;
+}
+header{
+    padding-bottom: 20px;
+    border-bottom: 5px solid #413f42 ;
+}
+
+.img-gl img{
+    position: relative;
+    width: 1000px;
+}
+.img-gl{
+    position: relative;
+}
+h2{
+    font-size: 50px;
+    background: rgba(0,0,0,0.6);
+    color: white;
+    position: absolute;
+    bottom: 0;
+    top: 600px;
+    width: 100%;
+    padding-left: 5px;
+    font-weight: bold;
+    font-family: "Wide Latin";
+
+
+}
+.img-gl:hover h2{
+    top: 10px;
+    color: red;
+    padding-left: 20px;
+    transition: 3s;
+}
+.performance h1{
+    font-size: 40px;
+    text-align: center;
+    font-family: Kalinga;
+    font-style: italic;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #403e41;
+}
+.performance p{
+    font-family: Kalinga;
+    font-size: 20px;
+    line-height: 30px;
+    padding: 10px;
+}
+#Actor{
+    font-size: 40px;
+    text-align: center;
+    font-family: Kalinga;
+    font-style: italic;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #403e41;
+}
+#ak1{
+    width: 235px;
+    height: 307px;
+     padding-left: 380px;
+     padding-right: 500px;
+     padding-bottom: 10px;
+ }
+#Actor-1 h3{
+    font-family: Kalinga;
+    font-size: 20px;
+    line-height: 30px;
+    padding: 10px;
+    text-align: center;
+}
+#ak2{
+    width: 235px;
+    height: 307px;
+    padding-left: 380px;
+    padding-right: 500px;
+    padding-bottom: 10px;
+
+}
+#Actor-2 h3 {
+    font-family: Kalinga;
+    font-size: 20px;
+    line-height: 30px;
+    padding: 10px;
+    text-align: center;
+}
+#ak3{
+    width: 235px;
+    height: 307px;
+    padding-left: 380px;
+    padding-right: 500px;
+    padding-bottom: 10px;
+
+}
+#Actor-3 h3 {
+    font-family: Kalinga;
+    font-size: 20px;
+    line-height: 30px;
+    padding: 10px;
+    text-align: center;
+}
+#ak4{
+    width: 235px;
+    height: 307px;
+    padding-left: 380px;
+    padding-right: 500px;
+    padding-bottom: 10px;
+
+}
+#Actor-4 h3 {
+    font-family: Kalinga;
+    font-size: 20px;
+    line-height: 30px;
+    padding: 10px;
+    text-align: center;
+}
+#ak5{
+    width: 235px;
+    height: 307px;
+    padding-left: 380px;
+    padding-right: 500px;
+    padding-bottom: 10px;
+
+}
+#Actor-5 h3 {
+    font-family: Kalinga;
+    font-size: 20px;
+    line-height: 30px;
+    padding: 10px;
+    text-align: center;
+}
+#tickets{
+    font-size: 40px;
+    text-align: center;
+    font-family: Kalinga;
+    font-style: italic;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #403e41;
+}
+.afisha h3{
+    font-family: Kalinga;
+    font-size: 35px;
+    line-height: 30px;
+    padding: 10px;
+    text-align: center;
+    color: #354658;
+}
+.afisha h3 span{
+    color: firebrick;
+}
+.knopka{
+    text-align: center;
+    font-family: Kalinga;
+    font-size: 25px;
+
+    padding: 20px;
+
+}
+.knopka #br{
+    margin-right: 100px;
+    margin-top: 20px;
+    border: 2px solid #354658;
+    color:firebrick ;
+    background:#87a3b8;
+    border-radius: 10px;
+}
+.knopka #kp{
+    margin-left: 100px;
+    border: 2px solid #354658;
+    color:firebrick ;
+    background:#87a3b8;
+    border-radius: 10px;
+}
+.contact #con{
+    font-size: 40px;
+    text-align: center;
+    font-family: Kalinga;
+    font-style: italic;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #403e41;
+}
+.contact h3{
+    font-family: Kalinga;
+    font-size: 35px;
+    line-height: 30px;
+    padding: 10px;
+    text-align: center;
+    color: #354658;
+}
+.contact span{
+    color: firebrick;
+}
